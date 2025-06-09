@@ -1,0 +1,19 @@
+/.vscode
+/cache_key.key
+/config.json
+/from cryptography.py
+/image_cache
+/image_cache.db
+/index.html
+/lovrc_integrated_app.py
+/main.js
+/node_modules
+/package-lock.json
+/package.json
+/ssh -p 8022 u0_a266@192.168.100.16.txt
+/text
+/vrc_auth_cookie.json
+/vrc_auth_cookie.lwp
+/vrc_integrated_app_old.py
+/your-service-account-key.json
+/your-service-account-key.json.enc
